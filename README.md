@@ -11,6 +11,5 @@
       </td>
     </tr>
     </table>
-    
-<img src="https://i.postimg.cc/7L4gHGFp/IMG-9053.png" width="70" align="up">     $${\textsf{\color{#CF00FF}Skeppy / Skeppers, He / they only}}$$<br>
+    <img src="https://i.postimg.cc/7L4gHGFp/IMG-9053.png" width="70" align="up">     $${\textsf{\color{#CF00FF}Skeppy / Skeppers, He / they only}}$$<br>
 $${\textsf{\color{#0030B2}Discord - skeppyghjo}}$$<br>
