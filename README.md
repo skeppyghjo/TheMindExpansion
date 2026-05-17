@@ -13,6 +13,6 @@
       </td>
     </tr>
     </table>
-        <img src="https://i.postimg.cc/HsRL4q33/Untitled603-20260517010127.png" width="150" align="left"> \textsf{\color{#CF00FF} Skeppy / Skeppers, He / they only}$ <br>   \textsf{\color{#0030B2} Discord - skeppyghjo}$ <br>
+        <img src="https://i.postimg.cc/HsRL4q33/Untitled603-20260517010127.png" width="150" align="left">   ${textsf{\color{#CF00FF} Skeppy / Skeppers, He / they only}}$<br>   ${textsf{\color{#0030B2} Discord - skeppyghjo}}$<br> ${textsf{\color{#00FFF8} Strawpage soon maybe}}$<br>
 
 <img src="https://i.postimg.cc/dVfV6zBs/tumblr-7eb815d8d6f8cfb7a71dbae8653dcbe8-30cc7d67-2048.gif" width="900" align="center">
