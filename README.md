@@ -5,7 +5,8 @@
     <tr>
       <td>
         <br>
-         {\textsf{\color{#0030B2} THEMINDEXPANSION}}$    {\textsf{\color{#CF00FF} 16}}$    {\textsf{\color{#FF00FB} DID SYSTEM}}$  
+         ౿ ݁  .    SKEPPY        ︵   ｡  14-17    ˚
+          DID/AUDHD         Ი︵𐑼   HE / THEY | TRANS MASC
         <br>
       </td>
     </tr>
