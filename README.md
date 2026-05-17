@@ -5,7 +5,7 @@
     <tr>
       <td>
         <br>
-         {\textsf{\color{#0030B2} THEMINDEXPANSION}}$ {\textsf{\color{#CF00FF} 16}}$ {\textsf{\color{#FF00FB} DID SYSTEM}}$  
+         {\textsf{\color{#0030B2} THEMINDEXPANSION}}$    {\textsf{\color{#CF00FF} 16}}$    {\textsf{\color{#FF00FB} DID SYSTEM}}$  
         <br>
       </td>
     </tr>
