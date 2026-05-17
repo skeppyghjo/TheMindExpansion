@@ -5,8 +5,9 @@
     <tr>
       <td>
         <br>
-         ౿ ݁  .    SKEPPY        ︵   ｡  14-17    ˚
-          DID/AUDHD         Ი︵𐑼   HE / THEY | TRANS MASC
+         ౿ ݁  .    SKEPPY        ︵   ｡  14-17    ˚ <br>
+          DID/AUDHD         Ი︵𐑼   HE / THEY | TRANS MASC <br>
+          <img src="https://cdn.discordapp.com/attachments/1352017866194681918/1505443116092489788/image.png?ex=6a0aa4a8&is=6a095328&hm=bd56572534ac679361a7810dd713d37772e6cd211f063c27ad423887a8dc56e0&" width=500 align=center>
         <br>
       </td>
     </tr>
