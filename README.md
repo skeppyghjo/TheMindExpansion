@@ -13,6 +13,6 @@
       </td>
     </tr>
     </table>
-        <img src="https://i.postimg.cc/HsRL4q33/Untitled603-20260517010127.png" width="150" align="left">   WIP
+        <img src="https://i.postimg.cc/HsRL4q33/Untitled603-20260517010127.png" width="150" align="left">  Skeppy / Skeppers - Minor <br> Discord - skeppyghjo <br> System - ask for front <br> ff2i , c+h enc on PT
 
 <img src="https://i.postimg.cc/dVfV6zBs/tumblr-7eb815d8d6f8cfb7a71dbae8653dcbe8-30cc7d67-2048.gif" width="900" align="center">
