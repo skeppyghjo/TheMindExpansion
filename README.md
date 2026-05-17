@@ -11,4 +11,4 @@
       </td>
     </tr>
     </table>
-<img src="https://media.discordapp.net/attachments/1352017866194681918/1505434013404364911/IMG_9067.jpg?ex=6a0a9c2e&is=6a094aae&hm=7901cfb363a66e5b4a43e99d4fbd377c8fc19a257111fd6e0cd4b99f549a258d&=&format=webp" width="70" align="up">
+<img src="https://media.discordapp.net/attachments/1352017866194681918/1505434012733145168/Untitled603_20260516231751.png?ex=6a0a9c2e&is=6a094aae&hm=7c26cc698fd0081d619d696617b915a7791a132299394d4c0260a0078afa3840&=&format=webp&quality=lossless&width=720&height=856" width="70" align="up">
