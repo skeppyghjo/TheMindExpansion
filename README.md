@@ -7,7 +7,7 @@
     <tr>
       <td>
         <br>
-        <img src="https://i.postimg.cc/zD2SCfgs/IMG-9054.png" width="80" align="left"> ౿ ݁  .    SKEPPY        ︵   ｡  14-17    ˚ <br>
+        <img src="https://i.postimg.cc/zD2SCfgs/IMG-9054.png" width="80" align="left"> ౿ ݁  .    SKEPPY        ︵   ｡  15-17    ˚ <br>
           DID/AUDHD         Ი︵𐑼   HE / THEY | TRANS MASC <br>
            <br>
       </td>
